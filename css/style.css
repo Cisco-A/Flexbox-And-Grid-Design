@@ -9,6 +9,18 @@ body{
     background-color: hsl(0, 0%, 95%);
 }
 
+nav{
+    margin: 20px auto;
+}
+
+.grid-site{
+    color: olive;
+    text-decoration: none;
+}
+.grid-site:hover{
+    color: powderblue;
+}
+
 h1{
     font-family: 'Big Shoulders Display', cursive;
     color: hsl(0, 0%, 95%);
